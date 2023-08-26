@@ -14,9 +14,9 @@
     a. Each presentation (after CFP approval) should be of 30 minutes duration,
        including any Q&A session.
 
-    b. Each lightning talk should be of 15 minutes duration, including any Q&A
+    b. Each lightning talk can be upto 15 minutes duration, including any Q&A
        session.
 
 4. At least one organizer will be present at all times at the meetup venue, and
-   will ensure that all members have vacated the place safely.
+   will ensure that all members have vacated the place safely after an event.
 
