@@ -6,8 +6,8 @@
    Delhi's [telegram channel](https://t.me/RustDelhi).
 
 2. Timings for monthly meetups are subject to the number of talks, but a
-   tentative schedule will see its start from 10:00 am till 01:00 pm IST (and
-   may be extended to 02:00 pm if required).
+   tentative schedule will see its start from 02:00 pm till 05:00 pm IST (and
+   may be extended to 06:00 pm if required).
 
 3. Timings for individual talks:
 
